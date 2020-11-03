@@ -1,5 +1,5 @@
 # Errata
-Vanuit cursusdoeleinden gewenste verbeteringen en suggesties van de volgende schrijvers
+Vanuit cursusdoeleinden gewenste verbeteringen aan en suggesties bij de volgende schrijvers
 
 ## Peter Kassenaar
 ### Web development library bij Van Duuren Media BV, in volgorde van ingebruikname: 
@@ -9,4 +9,4 @@ Vanuit cursusdoeleinden gewenste verbeteringen en suggesties van de volgende sch
  3. [isbn 9789059409736 - JavaScript - Tweede, geactualiseerde editie](9789059409736.md)
  4. [isbn 9789463561136 - Vue.js](9789463561136.md)
 
-Originele publicatie onder https://frits-kuijk-ocict.github.io/Errata-Kassenaar/
+Originele publicatie onder https://frits-kuijk-ocict.github.io/Errata/
