@@ -1,5 +1,5 @@
 # Errata
-Verbeteringen aan en suggesties bij uitgaven van de volgende schrijvers uit cursusdoeleinden:
+Vanuit cursusdoeleinden: verbeteringen aan en suggesties bij uitgaven van de volgende schrijvers:
 
 ## Peter Kassenaar
 ### In de serie Web development library uitgegeven door Van Duuren Media BV, in volgorde van ingebruikname: 
