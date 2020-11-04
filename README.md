@@ -1,8 +1,8 @@
 # Errata
-Vanuit cursusdoeleinden gewenste verbeteringen aan en suggesties bij de volgende schrijvers
+Verbeteringen aan en suggesties bij uitgaven van de volgende schrijvers uit cursusdoeleinden:
 
 ## Peter Kassenaar
-### Web development library bij Van Duuren Media BV, in volgorde van ingebruikname: 
+### In de serie Web development library uitgegeven door Van Duuren Media BV, in volgorde van ingebruikname: 
 
  1. [isbn 9789463560603 - Angular](9789463560603.md)
  2. [isbn 9789463561617 - Angular - Tweede, geactualiseerde editie](9789463561617.md)
