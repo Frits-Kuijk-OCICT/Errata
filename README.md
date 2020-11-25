@@ -9,4 +9,4 @@ Vanuit cursusdoeleinden: verbeteringen aan en suggesties bij uitgaven van de vol
  3. [isbn 9789059409736 - JavaScript - Tweede, geactualiseerde editie](9789059409736.md)
  4. [isbn 9789463561136 - Vue.js](9789463561136.md)
 
-Originele publicatie onder https://frits-kuijk-ocict.github.io/Errata/
+Bron: https://frits-kuijk-ocict.github.io/Errata/
