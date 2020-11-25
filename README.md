@@ -1,4 +1,4 @@
-# Errata
+{% raw %}{% seo %}{% endraw %}# Errata
 Vanuit cursusdoeleinden: verbeteringen aan en suggesties bij uitgaven van de volgende schrijvers:
 
 ## Peter Kassenaar
