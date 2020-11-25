@@ -1,5 +1,4 @@
 # Errata
-Bron: https://frits-kuijk-ocict.github.io/Errata/
 
 Vanuit cursusdoeleinden: verbeteringen aan en suggesties bij uitgaven van de volgende schrijvers:
 
