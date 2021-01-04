@@ -10,4 +10,4 @@ Vanuit cursusdoeleinden: verbeteringen aan en suggesties bij uitgaven van de vol
 - [isbn 9789463561617 - Angular - Tweede, geactualiseerde editie](9789463561617.md)
 - [isbn 9789463560603 - Angular](9789463560603.md)
 
-Bron: https://frits-kuijk-ocict.github.io/Errata/
+[Bron: frits-kuijk-ocict.github.io/Errata/](https://frits-kuijk-ocict.github.io/Errata/)
